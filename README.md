@@ -11,6 +11,9 @@ When `activate`, the update function will send the folder over (rsync), then run
 - Breadboard
 - Some jumper cables (female-to-male)
 
+## Hardware
+![Hardware](docs/hardware.png)
+
 ## Setup
 ```
 ssh pi
@@ -60,8 +63,3 @@ thin_film_pressure_sensor: 0.34 kg (Voltage: 1.94 V)
 thin_film_pressure_sensor: 0.02 kg (Voltage: 0.22 V)
 thin_film_pressure_sensor: 0.03 kg (Voltage: 0.17 V)
 ```
-
-
-
-
-
